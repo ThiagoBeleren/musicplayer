@@ -1,2 +1,3 @@
 # musicplayer
-music player made with tkinter
+music player made with flutter
+
